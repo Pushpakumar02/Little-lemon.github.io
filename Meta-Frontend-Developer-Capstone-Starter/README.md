@@ -7,6 +7,5 @@ This website showcased implementing a booking application on the Little Lemon We
 
 Please note: the only functionality working on this website besides the design is the Reserve a Table function.
 
-
-
+![Here are some screeenshots of the application showcasing the Booking functionality.](https://github.com/Pushpakumar02/Little-lemon/blob/main/Meta-Frontend-Developer-Capstone-Starter/src/images/github-cover.png)
 
